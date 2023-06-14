@@ -7,3 +7,5 @@
 #Novas funções
 100*100
 6*6
+#modificando remoteamente
+100+50
